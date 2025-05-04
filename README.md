@@ -1,4 +1,8 @@
-# Handon---interview-
+# Handon---Scenario:
+You are tasked with designing and deploying a production-ready infrastructure on AWS for a web application composed of:
+Frontend: React app
+Backend: .NET Core Web API
+Database: PostgreSQL-
 Sample Terraform file for 3 tier application.
 
 # Terraform project to deploy a 3-tier architecture on AWS
